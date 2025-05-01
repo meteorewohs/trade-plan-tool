@@ -126,4 +126,3 @@ const buttonStyle = {
   cursor: 'pointer',
   width: '100%'
 };
-
